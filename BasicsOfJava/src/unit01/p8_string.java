@@ -59,8 +59,8 @@ class QuestionsOnString {
 		}
 		else {
 			System.out.println("s1 not equal to s2");
+		}	
 		}
-	}
 		
 }
 
